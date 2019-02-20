@@ -2338,7 +2338,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 @media (max-width: 673px) {
     .banner-area .overlay-bg {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 }
 
