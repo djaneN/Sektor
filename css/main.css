@@ -2336,6 +2336,11 @@ body.mobile-nav-active #mobile-nav-toggle {
 .banner-area .overlay-bg {
   background-color: rgba(0, 0, 0, 0.7);
 }
+@media (max-width: 673px) {
+    .banner-area .overlay-bg {
+  background-color: rgba(0, 0, 0, 0.4);
+}
+}
 
 .banner-content {
   text-align: left;
